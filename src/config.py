@@ -19,4 +19,3 @@ LOG_DIR = os.path.join(ROOT_DIR, "logs")
 TEST_SIZE = 0.3
 RANDOM_STATE = 42
 
-print(RAW_DATA_PATH)

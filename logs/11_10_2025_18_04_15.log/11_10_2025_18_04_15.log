@@ -1,0 +1,9 @@
+2025-11-10 18:04:23 - 77 root-INFO -load and preprocess is start
+2025-11-10 18:04:23 - 15 root-INFO -started loading a raw dataset
+2025-11-10 18:04:23 - 17 root-INFO -loaded a raw dataset succesfully
+2025-11-10 18:04:23 - 30 root-INFO -preprocess a dataset
+2025-11-10 18:04:23 - 37 root-INFO -Dataset has no missing value
+2025-11-10 18:04:23 - 39 root-INFO -preprocess is done
+2025-11-10 18:04:23 - 53 root-INFO -spliting a dataset into train and test dataset
+2025-11-10 18:04:23 - 64 root-INFO -sucessfully splited a dataset into train and test
+2025-11-10 18:04:23 - 81 root-INFO -split a dataset sucessfully
